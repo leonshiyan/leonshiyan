@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @leonshiyan
 ### Previously working as security systems technician.
-### I am currently learning fullstack in a software engineering Bootcamp. 
-### Learned many programming languages by myself! Including C++ , MySql , PHP , Java , and more.
+### I am currently learning fullstack in a software engineering Bootcamp. Learning more about JavaScript and CSS!
+### Learned many programming languages by myself! Including JavaScript, MySql , PHP , Java ,C++ and more.
 ### I have always been passionate about technology and problem-solving, so I decided to pursue a career in software engineering!😎  
 
 🌱 I’m currently learning   
