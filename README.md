@@ -4,7 +4,7 @@
 ### Learned many programming languages by myself! Including JavaScript, MySql , PHP , Java ,C++ and more.
 ### I have always been passionate about technology and problem-solving, so I decided to pursue a career in software engineering!😎  
 
-🌱 I’m currently learning   
+🌱 I've learned    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonshiyan)](https://github.com/anuraghazra/github-readme-stats)
 [![Yan's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonshiyan&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
